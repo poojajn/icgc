@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Hi jyfuyfuyg hfhyfyuhf hjg
+Hi
 </body>
 </html>
